@@ -12,8 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 
-Git, VSCode ou Notepad++ et avoir un compte sur Github
-et suivre le cours OpenCR.
+Pas de prérequis.
 
 
 ```
